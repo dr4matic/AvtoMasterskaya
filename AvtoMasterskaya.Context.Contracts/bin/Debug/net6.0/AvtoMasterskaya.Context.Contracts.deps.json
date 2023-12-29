@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AvtoMasterskaya.Context.Contracts/1.0.0": {
+        "runtime": {
+          "AvtoMasterskaya.Context.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvtoMasterskaya.Context.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
